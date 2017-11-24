@@ -21,7 +21,7 @@
     "pm_forward": false,
     "version": "4.0.1",
     "branch": "experimental",
-    "oauth_link": "https://discordapp.com/oauth2/authorize?&client_id=383539244246892546&scope=bot&permissions=470019135
+    "oauth_link": "https://discordapp.com/oauth2/authorize?&client_id=383539244246892546&scope=bot&permissions=470019135",
     "discord_link": "",
     "donate_charities": [],
     "moment_date_format": "ddd MMMM Do YYYY [at] H:mm:ss",
