@@ -8,7 +8,7 @@ const configs = {
    * The URL all the bot commands should point to.
    * Example: /about shows this link for the web interface
    */
-	hostingURL: "",
+	hostingURL: "http://0.0.0.0:8080/",
 	/*
    * The server IP the web inteface should point itself to.
    * Preferably, you leave it as *0.0.0.0* so that it is on the local machine
