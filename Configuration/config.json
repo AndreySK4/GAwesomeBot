@@ -8,9 +8,9 @@
     "privKey": "",
     "httpsRedirect": false,
     "server_ip": "0.0.0.0",
-    "db_url": "mongodb://andreysk:andreysk@ds119736.mlab.com:19736/gawesomebotsk
+    "db_url": "mongodb://andreysk:andreysk@ds119736.mlab.com:19736/gawesomebotsk",
     "serve_static": true,
-    "maintainers": [],
+    "maintainers": ["240530226709266433"],
     "wiki_contributors": [],
     "global_blocklist": [],
     "game": "default",
