@@ -1,14 +1,14 @@
 {
     "platform": "discord",
     "shard_count": 1,
-    "hosting_url": "http://localhost:8080/",
+    "hosting_url": "http://0.0.0.0:8080/",
     "httpPort": 8080,
     "httpsPort": 8443,
     "cert": "",
     "privKey": "",
     "httpsRedirect": false,
-    "server_ip": "127.0.0.1",
-    "db_url": "mongodb://localhost:27017/awesomebot",
+    "server_ip": "0.0.0.0",
+    "db_url": "mongodb://andreysk:andreysk@ds119736.mlab.com:19736/gawesomebotsk
     "serve_static": true,
     "maintainers": [],
     "wiki_contributors": [],
